@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Site media</title>
+    <link rel="stylesheet" href="./css/style.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li>
+                    <a href="">
+                        LOGO
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        Home
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        En savoir plus
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        Médias
+                    </a>
+                </li>
+                <li>
+                    <a href="">
+                        Contact
+                    </a>
+                </li>
+            </ul>
+        </nav>
+    </header>
+    <img src="./images/hospital.jpg" class="img-banner" alt="Banière">
+    <div class="grid">
+        <div>
+            <h2>
+              Docteur 1  
+            </h2>
+            <img src="./images/docteur2.png" alt="Specialiste en Biologie">
+            <p class="paragraphe">Spécialiste en Biologie | Passionnée par la compréhension du vivant, de la cellule à l’écosystème
+
+                Bonjour,
+                Je suis biologiste spécialisé(e) dans l’étude des systèmes vivants, avec une expertise en [ex : biologie moléculaire, microbiologie, écologie…]. Mon travail repose sur une approche rigoureuse et curieuse de la recherche scientifique, avec l’objectif de contribuer à des solutions concrètes pour les enjeux de santé, d’environnement ou de biodiversité.
+                Je suis toujours ouvert(e) aux collaborations, projets de recherche ou échanges scientifiques enrichissants. N'hésitez pas à me contacter pour en discuter !
+                
+                </p>
+        </div>
+        <div>
+            <h2>
+                Docteur 2   
+            </h2>
+            <img src="./images/docteur3.png" alt="Specialiste en chirurgie">
+            <p class="paragraphe"> Spécialiste en Chirurgie | Engagement, précision et soins centrés sur le patient
+
+                Bonjour,
+                Chirurgien spécialisée en [ex : chirurgie générale, orthopédie, digestive, cardio-vasculaire…], je mets mes compétences au service de la prise en charge optimale des patients, de la phase préopératoire à la récupération post-opératoire.
+                Mon approche est guidée par l'excellence technique, l’éthique médicale et une collaboration étroite avec les équipes soignantes. Je suis toujours intéressé(e) par les échanges professionnels, projets médicaux ou initiatives de formation continue. N’hésitez pas à me contacter pour en savoir plus.</p>
+        </div>
+        <div>
+            <h2>
+              Docteur 3  
+            </h2>
+            <img src="./images/docteur4.jpg" alt="Specialiste en ophtamologie">
+            <p class="paragraphe">Spécialiste en Ophtalmologie | Prendre soin de la vision, améliorer la qualité de vie
+
+                Bonjour,
+                Je suis ophtalmologiste spécialisé dans le diagnostic, le traitement médical et chirurgical des pathologies oculaires. Mon engagement porte sur la prévention, la précision du geste médical et une approche personnalisée pour chaque patient, qu’il s’agisse de pathologies courantes ou complexes.
+                Je suis également intéressé(e) par les nouvelles technologies en ophtalmologie, la recherche clinique et les échanges interdisciplinaires. Ouvert(e) aux collaborations et aux discussions professionnelles, n'hésitez pas à me contacter.
+                
+                </p>
+        </div>
+        <div>
+            <h2>Docteur 4</h2>
+            <img src="./images/docteur5.png" alt="Cardiologue">
+            <p class="paragraphe">Spécialiste en Cardiologie | Prévention, diagnostic et traitement des maladies cardiovasculaires
+                
+                Bonjour,
+                Cardiologue engagée dans la prise en charge globale des pathologies du cœur et des vaisseaux, je combine écoute du patient, expertise clinique et technologies de pointe pour offrir un suivi personnalisé et efficace.
+                Mon approche s’inscrit à la fois dans la prévention cardiovasculaire, l’intervention en urgence, et la coordination des soins chroniques.
+                Je reste à l’écoute de toute opportunité de collaboration médicale, de projets de recherche ou d’échanges autour des innovations en cardiologie.</p>
+        </div>
+    </div>
+</body>
+</html>
